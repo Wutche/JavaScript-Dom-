@@ -21,7 +21,7 @@ body {
 	margin-top: 150px;
 	text-align: center;
 	height: fit-content;
-	width: 500px;
+	width: 450px;
 	box-shadow: 0px 0px 5px #343a4055;
 	background-color: white;
 }
@@ -61,6 +61,7 @@ form input {
 .header img {
 	width: 100px;
 	margin-top: 20px;
+	border-radius: 50px;
 }
 
 .header h1 {
